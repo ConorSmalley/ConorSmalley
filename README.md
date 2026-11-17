@@ -1,5 +1,5 @@
 
-# Hi, I'm Conor Smalley 👋
+# Hi, I'm Conor 👋
 
 **Developer | Home Automation | Self-Hosting | Martial Arts**
 

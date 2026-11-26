@@ -29,7 +29,6 @@ Outside of development, I'm a martial arts instructor specialising in Taekwondo 
 
 - 🌐 [Personal Website](https://ConorSmalley.github.io)
 - 🥋 [Delta Martial Arts](https://deltamartialarts.club)
-- 💻 [GitHub](https://github.com/ConorSmalley)
 
 ---
 

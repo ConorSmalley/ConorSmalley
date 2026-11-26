@@ -11,11 +11,12 @@ I enjoy developing applications, integrating APIs and self-hosting services, wit
 
 ## 🚀 Interests & Projects
 
-- 🏠 **Home Automation** – Home Assistant, custom integrations and household automation.
-- 🖥️ **Self-Hosting** – Docker, Synology, networking and infrastructure.
-- 💻 **Development** – Web applications, APIs and CLI tools using PHP, JavaScript, TypeScript, Go and Rust.
-- 🔗 **Integrations** – Connecting platforms and services to create practical solutions.
-- 🌐 **Open Source** – Exploring and building tools that others can use.
+- 🏠 **Home Automation** - Home Assistant, custom integrations and household automation.
+- 🖥️ **Self-Hosting** - Docker, Synology, networking and infrastructure.
+- 💻 **Development** - Web applications, APIs and CLI tools using PHP, JavaScript, TypeScript, Go and Rust.
+- 🔗 **Integrations** - Connecting platforms and services to create practical solutions.
+- 🌐 **Open Source** - Exploring and building tools that others can use.
+- 🏡 **Family Tree** - Researching Family History, particularly military history🎖️🪖
 
 ---
 
